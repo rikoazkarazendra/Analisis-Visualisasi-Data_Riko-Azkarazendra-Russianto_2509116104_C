@@ -58,3 +58,29 @@ Relationship/Hubungan
 # Dokumentasi Pengerjaan
 
 <img width="1920" height="1080" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/af9c4f9d-bfea-4bb9-8871-dee1086ae1b5" />
+
+
+# Checkpoint3
+**Nama: Riko Azkarazendra Russianto**
+
+**NIM: 2509116104**
+
+**Kelas: C-Sistem Informasi 2025**
+
+Link Colab: https://colab.research.google.com/drive/1GQ9ZNYbHmWEje8y5Z0MDISnoJjp_Jh0q#scrollTo=UmCvD1io9pk-
+
+Checkpoint3 
+Instruksi:
+Data Preparation (Data Cleaning, Construct Data, Data Reduction)
+1. Melanjutkan pekerjaan yang telah dilakukan pada checkpoint sebelumnya.
+2. Melakukan penanganan terhadap kolom yang tidak sesuai/bermasalah:
+- Tipe Data
+- Incosistent Values
+- Missing Values
+- Duplicated Values
+- Outliers
+3. Melakukan konstruksi data (Construct Data) berdasarkan data anda dengan studi kasus yang sedang dianalisis.
+4. Melakukan reduksi data (Data Reduction) dengan menghapus kolom-kolom yang tidak relevan dengan studi kasus kalian.
+
+# Dokumentasi Pengerjaan
+<img width="1911" height="1077" alt="Screenshot 2026-02-27 012326" src="https://github.com/user-attachments/assets/0bd26cf5-f632-4ba0-9ab2-1a43317bc44e" />
