@@ -79,8 +79,8 @@ Data Preparation (Data Cleaning, Construct Data, Data Reduction)
 - Missing Values
 - Duplicated Values
 - Outliers
-3. Melakukan konstruksi data (Construct Data) berdasarkan data anda dengan studi kasus yang sedang dianalisis.
-4. Melakukan reduksi data (Data Reduction) dengan menghapus kolom-kolom yang tidak relevan dengan studi kasus kalian.
+3. Melakukan konstruksi data (Construct Data) berdasarkan data dengan studi kasus yang sedang dianalisis.
+4. Melakukan reduksi data (Data Reduction) dengan menghapus kolom-kolom yang tidak relevan dengan studi kasus.
 
 # Dokumentasi Pengerjaan
 <img width="1911" height="1077" alt="Screenshot 2026-02-27 012326" src="https://github.com/user-attachments/assets/0bd26cf5-f632-4ba0-9ab2-1a43317bc44e" />
